@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shangugregory
-- 👀 I’m interested in ...software Engineering
-- 🌱 I’m currently learning ...at Kibabii University
+- 👀 I’m interested in ...Web Development
+- 🌱 I’ve recently graduated ...from  Kibabii University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shangugregory@gmail.com
 
